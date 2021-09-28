@@ -6,7 +6,8 @@ namespace _1._7._2._Tarea___Segundo_proyecto_colaborativo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            AnderG.MetodoAG();
+            PedroJ.hoola();
         }
     }
 }
