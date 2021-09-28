@@ -10,5 +10,9 @@ namespace _1._7._2._Tarea___Segundo_proyecto_colaborativo
         {
             Console.WriteLine("Soy Pedro");
         }
+        public static void hoola()
+        {
+            Console.WriteLine("Soy Pedro");
+        }
     }
 }
